@@ -1,0 +1,46 @@
+body {
+	background-color: #1b4552;
+	background-color: #476f95;
+	background-color: #194a7a;
+	background-color: #f1dafb;
+	background-color: lightgray;
+	display: flex;
+	align-items: flex-end;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+img {
+	height: 60rem;
+}
+span {
+	justify-content: center;
+	margin: auto;
+}
+.square {
+	display: flex;
+	width: 20rem !important;
+	height: 20rem !important;
+	font-size: 1.4rem;
+	color: white;
+	text-align: center;
+	flex-wrap: wrap;
+}
+.green {
+	background-color: #059ca2;
+}
+
+.pink {
+	background-color: #e1667e;
+}
+.purple {
+	background-color: #895eb2;
+}
+.orange {
+	background-color: #db8e33;
+}
+.darkpurple {
+	background-color: #57229b;
+}
+.yellow {
+	background-color: #e1c036;
+}
